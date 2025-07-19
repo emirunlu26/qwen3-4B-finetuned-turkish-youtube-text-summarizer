@@ -23,7 +23,7 @@ should probably proofread and complete it, then remove this comment. -->
 
 # qwen3-4B-finetuned-turkish-youtube-text-summarizer
 
-This model is a fine-tuned version of [Qwen/Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) on [emirunlu26/turkish-youtube-text-summarization](https://huggingface.co/datasets/emirros/turkish-youtube-text-summarization) dataset.
+This model is a fine-tuned version of [Qwen/Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) on [emirunlu26/turkish-youtube-text-summarization](https://huggingface.co/datasets/emirros/turkish-youtube-text-summarization) dataset. Go to [this link](https://huggingface.co/emirunlu26/qwen3-4B-finetuned-turkish-youtube-text-summarizer) to download the model.
 
 ## Limitations
 
