@@ -27,7 +27,7 @@ This model is a fine-tuned version of [Qwen/Qwen3-4B](https://huggingface.co/Qwe
 
 ## Limitations
 
-- This model is developed as an individual project to learn the process of text preprocessing and fine-tuning a model with QLoRA. It is NOT for practical use.
+- This model is developed as an individual project to learn the process of text preprocessing and fine-tuning a model with QLoRA. It is **NOT** for practical use.
 - It is fine-tuned on only 520 training samples due to data scarcity issues.
 - The model is fine-tuned on transcription and summary of videos which does not exceed 25 minutes.
   
